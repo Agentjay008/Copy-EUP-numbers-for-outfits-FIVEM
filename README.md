@@ -20,3 +20,5 @@ A FiveM resource that lets you copy EUP component values in JSON format for use 
 
 ## License
 MIT License. You are free to use, modify, and distribute.
+
+![image](https://github.com/user-attachments/assets/be43eb97-5262-4c58-b99a-fd48074e0d1f)
